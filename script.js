@@ -20,3 +20,6 @@ console.log(jonas.age)
 jonas.objSummary()
 
 console.log(jonas.firstName + " has " + jonas.friends.length + " friends, and his best friend is called " + jonas.friends[0] + '.')
+
+
+//hello
