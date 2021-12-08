@@ -36,3 +36,6 @@ if(objMark.calcBMI() > objJohn.calcBMI()){
 
 //console.log(`${objMark.calcBMI() > objJohn.calcBMI()? : "John's" }` )
 //console.log(objJohn.calcBMI())
+
+
+//completed video 45
